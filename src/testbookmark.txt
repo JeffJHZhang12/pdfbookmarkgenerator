@@ -1,0 +1,8 @@
+1	This is an example 	1
+1	TABLE OF CONTENTS	2
+1	Installation	3
+1	How to use pdf bookmark generator	4
+2	Select PDF file	5
+2	Select text file	6
+2	Press Run	7
+1	How to make bookmark text file	9
